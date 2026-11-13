@@ -1,0 +1,12 @@
+main 2 gap mean 0.000 max 0.000 T [20, 20, 20, 20, 20, 20, 20, 20, 20, 20] mono 10 ghat 17.64 vs 17.96
+main 3 gap mean 0.000 max 0.002 T [20, 20, 20, 20, 19, 20, 20, 20, 20, 20] mono 10 ghat 26.60 vs 26.65
+main 4 gap mean 0.004 max 0.014 T [20, 20, 20, 20, 20, 19, 20, 19, 20, 19] mono 10 ghat 33.92 vs 33.84
+main 5 gap mean 0.949 max 2.994 T [20, 19, 16, 16, 16, 14, 15, 13, 17, 18] mono 2 ghat 36.17 vs 35.81
+main 6 gap mean 0.416 max 1.394 T [9, 11, 13, 11, 10, 11, 11, 11, 11, 13] mono 0 ghat 33.39 vs 33.66
+main 7 gap mean 1.067 max 5.276 T [10, 10, 9, 12, 7, 10, 9, 11, 8, 9] mono 0 ghat 29.89 vs 30.04
+legacy 2 gap mean 0.001 max 0.007 T [15, 14, 16, 15, 15, 15, 13, 12, 14, 15] mono 9 ghat 18.83 vs 17.96
+legacy 3 gap mean 0.012 max 0.026 T [16, 16, 18, 17, 20, 20, 18, 20, 16, 17] mono 4 ghat 27.63 vs 26.65
+legacy 4 gap mean 0.066 max 0.357 T [20, 18, 20, 19, 20, 15, 18, 16, 20, 20] mono 7 ghat 34.51 vs 33.84
+legacy 5 gap mean 0.672 max 1.561 T [17, 16, 13, 16, 16, 15, 16, 17, 17, 18] mono 1 ghat 36.19 vs 35.81
+legacy 6 gap mean 7.056 max 14.462 T [17, 17, 17, 20, 18, 18, 17, 14, 12, 14] mono 3 ghat 33.39 vs 33.66
+legacy 7 gap mean 12.215 max 25.441 T [20, 20, 7, 13, 10, 9, 16, 18, 17, 16] mono 3 ghat 27.90 vs 30.04
